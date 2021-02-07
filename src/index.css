@@ -225,7 +225,7 @@ p {
   background: var(--clr-grey-10);
   border-color: transparent;
   border-radius: var(--radius);
-  padding: 0.25rem 0.5rem;
+  padding: 0.45rem 0.5rem;
 }
 .form-control {
   margin: 0.5rem 0;
