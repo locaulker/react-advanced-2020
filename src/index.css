@@ -240,10 +240,12 @@ p {
   border-color: transparent;
   margin-top: 1rem;
   letter-spacing: var(--spacing);
-  padding: 0.15rem 0.25rem;
-  text-transform: capitalize;
+  padding: 0.5rem 0.65rem;
+  /* text-transform: capitalize; */
+  text-transform: uppercase;
   border-radius: var(--radius);
   cursor: pointer;
+  font-size: 0.9rem;
 }
 .nav-links {
   max-width: var(--fixed-width);
