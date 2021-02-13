@@ -1,9 +1,9 @@
-import React from 'react'
-import Setup from './tutorial/5-useRef/setup/1-useRef-basics'
+import React from "react"
+import Setup from "./tutorial/6-useReducer/setup/useReducerMethod"
 
 function App() {
   return (
-    <div className='container'>
+    <div className="container">
       <Setup />
     </div>
   )
